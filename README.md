@@ -56,7 +56,7 @@
   
    ------------------------------------------------------------------------------------------------------------------
 
- ## 📂 Project Structure :
+ ## 📂 Calculator Project Structure :
 
 
      Day-Night-Themed-Calculator/
@@ -103,5 +103,3 @@ Developer of the Day–Night Themed Neumorphic Calculator.
  - Email: ayushtripathi9821@gmail.com
 
  - LinkedIn: www.linkedin.com/in/ayush-tripathi45
-
-
